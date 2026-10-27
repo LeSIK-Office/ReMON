@@ -1,0 +1,13 @@
+.DS_Store
+.build/
+.swiftpm/
+dist/
+*.o
+__pycache__/
+/design/references/preview/
+
+# 데모 전체 캡처(재생할 때마다 수십 MB). 핵심 장면은 Evidence/phase4/key에 축소본으로 둔다.
+/Evidence/phase4/demo/
+
+# 하위 에이전트 작업 공간(격리 워크트리)
+/.claude/worktrees/
