@@ -4,6 +4,16 @@ ReMON은 Mac의 자원과 로컬 AI 에이전트 세션을 함께 살피는 메�
 
 **최신 공개판:** 0.3.5(빌드 15) · [릴리스 기록](RELEASE_NOTES.md) · Apple Silicon · macOS 26 이상
 
+## 실제 화면
+
+![옥상부터 자원 기계실까지 보이는 ReMON AI 사무실](docs/images/office-overview-0.3.5.jpg)
+
+프로젝트 방·옥상·로비·도구실·기록 보관소·자원 기계실을 한 건물에서 봅니다.
+
+![도구실과 기록 보관소 아래에 CPU·RAM·스왑·디스크 장치가 놓인 모습](docs/images/resource-floor-0.3.5.jpg)
+
+실제 창의 2026-10-27 화면 기록에서 가져왔습니다. 좌우 패널의 세션 제목과 사건 기록은 공개 이미지에서 제외했습니다.
+
 ## 설치와 시작
 
 1. [Releases](../../releases/latest)에서 `ReMON-0.3.5.dmg`를 받습니다.
